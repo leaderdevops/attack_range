@@ -48,7 +48,7 @@ python-terraform==0.10.1
 python-vagrant==0.5.15
 pywinrm==0.4.1
 PyYAML==5.3
-requests==2.22.0
+requests==2.32.4
 requests-ntlm==1.1.0
 s3transfer==0.3.0
 six==1.13.0
